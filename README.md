@@ -69,4 +69,5 @@ For this workshop you need the following:
 Find common terminology for reference [here](./CheatSheet.md)
 
 dummy change testing trigger
+testing pull_request
 
